@@ -1,0 +1,20 @@
+.p {
+  &_lg {
+    font-size: 18px;
+    line-height: 29px;
+    margin: 0;
+    padding: 0;
+  }
+  &_md {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+  }
+  &_sm {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+  }
+}
